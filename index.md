@@ -8,3 +8,6 @@ I added the header to this file to learn how to make markdown files
 string hello = "Hellow world!";
 int stuff = 3;
 ```
+- [ ] turn on github pages
+- [ ] outline my portfolio
+- [ ] introduce myself to the world
